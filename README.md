@@ -32,7 +32,4 @@ CineBooker integrates real-time movie data, modern auth, and Stripe payments for
 **External API:** TMDB  
 **Infra (suggested):** Vercel (client), Render/Fly/EC2 (server), MongoDB Atlas
 
----
-
-## 🗺️ High-Level Architecture
 
